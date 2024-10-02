@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+
+# Pytest cache
+.pytest_cache/
+test/.pytest_cache/
+htmlcov/
+.coverage
+
+# Airflow virtual environment
+airflow_env/
+
+# DAGs cache
+dags/__pycache__/
+
+# Test cache
+test/__pycache__/
+
+
