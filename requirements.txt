@@ -1,8 +1,8 @@
-apache-airflow
-apache-airflow-providers-amazon
-apache-airflow-providers-cncf-kubernetes
-boto3
-pytest
-pytest-cov
-pandas
-moto
+apache-airflow==2.10.3
+apache-airflow-providers-amazon==9.0.0
+apache-airflow-providers-cncf-kubernetes==9.0.1
+boto3==1.35.58
+pytest==8.3.3
+pytest-cov==6.0.0
+pandas==2.2.3
+moto==5.0.16
